@@ -1,1 +1,1 @@
-# Multi-Modal-Supervised-Machine-Learning-for-Phishing
+# MultiModal-Supervised-Machine-Learning-for-Phishing
